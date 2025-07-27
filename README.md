@@ -36,5 +36,28 @@ MINI_GAME/
 
 ---
 
+## 👾🕹️게임 미리보기
+
+### MarioGame
+<p align="center">
+  <img src="./images/mario_main.png" width="45%" alt="마리오 메인 화면">
+  <img src="./images/mario_play.png" width="45%" alt="마리오 플레이 화면">
+</p>
+<p align="center">
+  메인 화면 &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; 플레이 화면
+</p>
+
+### 달려라 짱구
+<p align="center">
+  <img src="./images/jjanggu_start.png" width="45%" alt="짱구 시작 화면">
+  <img src="./images/jjanggu_play.png" width="45%" alt="짱구 플레이 화면">
+</p>
+<p align="center">
+  시작 화면 &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; 플레이 화면
+</p>
+
+
+---
+
 ## 라이선스
 이 프로젝트는 개인 학습용 예제로 제작되었습니다.
